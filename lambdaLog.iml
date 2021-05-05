@@ -19,6 +19,7 @@
     <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.6.7.1" level="project" />
     <orderEntry type="library" name="Maven: com.fasterxml.jackson.dataformat:jackson-dataformat-cbor:2.6.7" level="project" />
     <orderEntry type="library" name="Maven: com.amazonaws:jmespath-java:1.11.327" level="project" />
+    <orderEntry type="library" name="Maven: com.amazonaws:aws-java-sdk-cloudwatch:1.11.327" level="project" />
     <orderEntry type="library" name="Maven: com.amazonaws:aws-lambda-java-core:1.2.1" level="project" />
     <orderEntry type="library" name="Maven: com.amazonaws:aws-lambda-java-events:2.2.9" level="project" />
     <orderEntry type="library" name="Maven: joda-time:joda-time:2.6" level="project" />
